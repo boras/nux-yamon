@@ -8,6 +8,7 @@ Here's a "quilt files" output:
 
   arch/env/platform/env_platform.c
   arch/include/initmodules.h
+  
   arch/include/initswitch.h
   arch/include/lan_smc911x_ini.h
   arch/include/pb1000.h
