@@ -7,9 +7,7 @@ Issue "quilt diff" to see the changes done for Nuxitron board over the Yamon sou
 Here's a "quilt files" output:
 
   arch/env/platform/env_platform.c
-  
   arch/include/initmodules.h
-  
   arch/include/initswitch.h
   
   arch/include/lan_smc911x_ini.h
